@@ -1,6 +1,3 @@
-apy-f.11.1
-reenlet==0.4.15
-g==0.5.1
 boto3==1.9.96
 botocore==1.12.96
 certifi==2018.10.15
